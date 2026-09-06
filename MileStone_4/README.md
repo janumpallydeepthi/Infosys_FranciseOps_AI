@@ -586,7 +586,7 @@ Interactive map showing franchise outlet locations and revenue-based status indi
 
 ### 5. Admin Dashboard
 <div align="center">
-  <img src="screenshots/admin.jpeg" alt="Admin Dashboard" width="700"/>
+  <img src="screenshots/admin.png" alt="Admin Dashboard" width="700"/>
 </div>
 
 ### 6. OTP / Password Recovery
