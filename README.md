@@ -110,7 +110,7 @@ The project follows a layered architecture:
 ### Architecture Diagram
 
 <div align="center">
-  <img src="docs/architecture-diagram.png" alt="FranchiseOps AI Architecture" width="800"/>
+  <img src="MileStone_4/screenshots/architecture.jpeg" alt="FranchiseOps AI Architecture" width="800"/>
   <br/>
   <em>Four-Layer Platform Architecture</em>
 </div>
@@ -222,7 +222,7 @@ The agent reads from the `staff` table and analyses employee salary, overtime, j
 - AI workforce advisory
 
 <div align="center">
-  <img src="docs/screenshots/agent1-workforce.png" alt="Workforce Agent Dashboard" width="700"/>
+  <img src="MileStone_4/screenshots/agent.png" alt="Workforce Agent Dashboard" width="700"/>
   <br/>
   <em>Workforce Intelligence Dashboard with Attrition Prediction</em>
 </div>
@@ -566,32 +566,32 @@ Interactive map showing franchise outlet locations and revenue-based status indi
 
 ### 1. Login Screen
 <div align="center">
-  <img src="docs/screenshots/login.png" alt="Login Screen" width="700"/>
+  <img src="MileStone_4/screenshots/login.png" alt="Login Screen" width="700"/>
 </div>
 
-### 2. Main Dashboard
+### 2. Agent Screen 
 <div align="center">
-  <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="700"/>
+  <img src="MileStone_4/screenshots/agent.png" alt="Agent screen 1" width="700"/>
 </div>
 
-### 3. Agent Screen
+### 3. Translation Agent
 <div align="center">
-  <img src="docs/screenshots/agent.png" alt="Agent Screen" width="700"/>
+  <img src="MileStone_4/screenshots/agent2.png" alt="Agent Screen 2" width="700"/>
 </div>
 
 ### 4. AI Copilot
 <div align="center">
-  <img src="docs/screenshots/copilot.png" alt="AI Copilot" width="700"/>
+  <img src="MileStone_4/screenshots/copilot.jpeg" alt="AI Copilot" width="700"/>
 </div>
 
 ### 5. Admin Dashboard
 <div align="center">
-  <img src="docs/screenshots/admin-dashboard.png" alt="Admin Dashboard" width="700"/>
+  <img src="MileStone_4/screenshots/admin.png" alt="Admin Dashboard" width="700"/>
 </div>
 
 ### 6. OTP / Password Recovery
 <div align="center">
-  <img src="docs/screenshots/otp.png" alt="OTP Recovery" width="700"/>
+  <img src="MileStone_4/screenshots/otp.png" alt="OTP Recovery" width="700"/>
 </div>
 
 ---
